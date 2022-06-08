@@ -1,3 +1,3 @@
-module github.com/jaskaranSM/megasdkgo
+module github.com/l3v11/megasdkgo
 
-go 1.13
+go 1.18
